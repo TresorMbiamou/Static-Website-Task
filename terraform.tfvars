@@ -1,1 +1,0 @@
-bucket-name="stratusgrid-task05312022"
